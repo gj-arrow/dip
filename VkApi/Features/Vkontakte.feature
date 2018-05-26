@@ -46,7 +46,7 @@ Examples:
 | PhotoName | Country  | Name             |
 | sasha.jpg | Беларусь | Ховрин Александр |
 
-Scenario Outline: Add interests of user
+Scenario Outline: Add info of user
 
 		When I navigate to 'Моя Страница'
 		When I click edit info about user button

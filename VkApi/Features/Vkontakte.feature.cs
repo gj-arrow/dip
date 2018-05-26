@@ -155,7 +155,7 @@ this.FeatureBackground();
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Add interests of user")]
+        [NUnit.Framework.DescriptionAttribute("Add info of user")]
         [NUnit.Framework.TestCaseAttribute("Интересы", null)]
         [NUnit.Framework.TestCaseAttribute("Основное", null)]
         [NUnit.Framework.TestCaseAttribute("Контакты", null)]
@@ -163,9 +163,9 @@ this.FeatureBackground();
         [NUnit.Framework.TestCaseAttribute("Карьера", null)]
         [NUnit.Framework.TestCaseAttribute("Военная служба", null)]
         [NUnit.Framework.TestCaseAttribute("Жизненная позиция", null)]
-        public virtual void AddInterestsOfUser(string tabName, string[] exampleTags)
+        public virtual void AddInfoOfUser(string tabName, string[] exampleTags)
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add interests of user", exampleTags);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add info of user", exampleTags);
 #line 49
 this.ScenarioSetup(scenarioInfo);
 #line 3
