@@ -1,0 +1,29 @@
+D:\Work\Task1\TestVkApi\bin\Debug\libpuzzle.dll
+D:\Work\Task1\TestVkApi\bin\Debug\libpuzzle.pdb
+D:\Work\Task1\TestVkApi\Libpuzzle\obj\Debug\LibPuzzle.csproj.CoreCompileInputs.cache
+D:\Work\Task1\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.dll
+D:\Work\Task1\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask1\TestVkApi\bin\Debug\libpuzzle.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask1\TestVkApi\bin\Debug\libpuzzle.pdb
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask1\TestVkApi\Libpuzzle\obj\Debug\LibPuzzle.csprojResolveAssemblyReference.cache
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask1\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.dll
+D:\Student\Tasks\A1QA\A1QA probation\ProbationTask1\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.pdb
+D:\Student\Tasks\A1QA\Diplom\TestVkApi\bin\Debug\libpuzzle.dll
+D:\Student\Tasks\A1QA\Diplom\TestVkApi\bin\Debug\libpuzzle.pdb
+D:\Student\Tasks\A1QA\Diplom\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.dll
+D:\Student\Tasks\A1QA\Diplom\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.pdb
+D:\Student\Tasks\A1QA\Diplom\TestVkApi\Libpuzzle\obj\Debug\LibPuzzle.csprojResolveAssemblyReference.cache
+D:\Student\Diplom\TestVkApi\bin\Debug\libpuzzle.dll
+D:\Student\Diplom\TestVkApi\bin\Debug\libpuzzle.pdb
+D:\Student\Diplom\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.dll
+D:\Student\Diplom\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.pdb
+D:\Student\Diplom\diplom\TestVkApi\bin\Debug\libpuzzle.dll
+D:\Student\Diplom\diplom\TestVkApi\bin\Debug\libpuzzle.pdb
+D:\Student\Diplom\diplom\TestVkApi\Libpuzzle\obj\Debug\LibPuzzle.csprojResolveAssemblyReference.cache
+D:\Student\Diplom\diplom\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.dll
+D:\Student\Diplom\diplom\TestVkApi\Libpuzzle\obj\Debug\libpuzzle.pdb
+D:\Student\Diplom\diplom\bin\Debug\libpuzzle.dll
+D:\Student\Diplom\diplom\bin\Debug\libpuzzle.pdb
+D:\Student\Diplom\diplom\Libpuzzle\obj\Debug\libpuzzle.dll
+D:\Student\Diplom\diplom\Libpuzzle\obj\Debug\libpuzzle.pdb
+D:\Student\Diplom\diplom\Libpuzzle\obj\Debug\LibPuzzle.csprojResolveAssemblyReference.cache
