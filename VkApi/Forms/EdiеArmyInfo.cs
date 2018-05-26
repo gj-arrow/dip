@@ -55,8 +55,6 @@ namespace VkApi.Forms
             {
                 Browser.GetDriver().FindElements(By.XPath("//a[@class = 'pedit_del_icon _del_icon']"))[0].Click();
                 Thread.Sleep(1000);
-                Browser.GetDriver().FindElements(By.XPath("//a[@class = 'pedit_del_icon _del_icon']"))[0].Click();
-                Thread.Sleep(1000);
                 var _btnSave = new Button(By.XPath("//button[contains(@class, 'flat_button button_big_width')]"), "Save button");
                 if (_btnSave.IsDisplayed())
                 {

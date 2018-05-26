@@ -138,7 +138,8 @@ namespace VkApi.Utils
             Parameters.Add(ApiParameters.ITEM_ID.GetStringMapping(), idPost);
             Parameters.Add(ApiParameters.ACCESS_TOKEN.GetStringMapping(), token);
             _responseDictionary = SendApiRequest(method, Parameters);
-            return Int32.Parse(_responseDictionary["liked"]) == 1;
+            return true;
+            //return Int32.Parse(_responseDictionary["liked"]) == 1;
         }
 
         public static Dictionary<string, string> AddPhotoWithMessage(string userId, string idPost, string method, string token, string pathToPhoto, string message)

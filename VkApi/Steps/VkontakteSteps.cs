@@ -222,6 +222,7 @@ namespace VkApi.Steps
         [When(@"click to user according existing photo '(.*)'")]
         public void WhenClickToUserAccordingExistingPhoto(string photo)
         {
+            Thread.Sleep(3000);
             _sikuliActions.Click(photo);
         }
 
@@ -234,6 +235,7 @@ namespace VkApi.Steps
         [When(@"I click edit info about user button")]
         public void WhenIClickEditInfoAboutUserButton()
         {
+           mainF = new MainForm();
             mainF.ClickEditInfo();
         }
 
@@ -253,46 +255,46 @@ namespace VkApi.Steps
                 switch (tab)
                 {
                     case "Интересы":
-                    {
-                        var editIntrestsInfo = new EditIntrestsInfo();
-                        editIntrestsInfo.FillInfoUser("test");
-                    }
+                        {
+                            var editIntrestsInfo = new EditIntrestsInfo();
+                            editIntrestsInfo.FillInfoUser("test");
+                        }
                         break;
                     case "Основное":
-                            {
-                                var editMainInfo = new EditMainInfo();
-                                editMainInfo.FillInfoUser("test");
-                            }
+                        {
+                            var editMainInfo = new EditMainInfo();
+                            editMainInfo.FillInfoUser("test");
+                        }
                         break;
                     case "Контакты":
-                    {
-                        var editContactInfo = new EditContactInfo();
-                        editContactInfo.FillInfoUser("test");
-                    }
+                        {
+                            var editContactInfo = new EditContactInfo();
+                            editContactInfo.FillInfoUser("test");
+                        }
                         break;
                     case "Образование":
-                    {
-                        var editStudyInfo = new EditStudyInfo();
-                        editStudyInfo.FillInfoUser("test");
-                    }
+                        {
+                            var editStudyInfo = new EditStudyInfo();
+                            editStudyInfo.FillInfoUser("test");
+                        }
                         break;
                     case "Карьера":
-                    {
-                        var editCarrierInfo = new EditCarrierInfo();
-                        editCarrierInfo.FillInfoUser("test");
-                    }
+                        {
+                            var editCarrierInfo = new EditCarrierInfo();
+                            editCarrierInfo.FillInfoUser("test");
+                        }
                         break;
                     case "Военная служба":
-                    {
-                        var editArmyInfo = new EditArmyInfo();
-                        editArmyInfo.FillInfoUser("test");
-                    }
+                        {
+                            var editArmyInfo = new EditArmyInfo();
+                            editArmyInfo.FillInfoUser("test");
+                        }
                         break;
                     case "Жизненная позиция":
-                    {
-                        var editLivePositionInfo = new EditLivePositionInfo();
-                        editLivePositionInfo.FillInfoUser("test");
-                    }
+                        {
+                            var editLivePositionInfo = new EditLivePositionInfo();
+                            editLivePositionInfo.FillInfoUser("test");
+                        }
                         break;
                 }
 
@@ -302,45 +304,46 @@ namespace VkApi.Steps
                 switch (tab)
                 {
                     case "Интересы":
-                    {
-                        var editIntrestsInfo = new EditIntrestsInfo();
-                        editIntrestsInfo.FillInfoUser(""); }
-                    break;
+                        {
+                            var editIntrestsInfo = new EditIntrestsInfo();
+                            editIntrestsInfo.FillInfoUser("");
+                        }
+                        break;
                     case "Основное":
-                    {
-                        var editMainInfo = new EditMainInfo();
-                        editMainInfo.FillInfoUser("");
-                    }
+                        {
+                            var editMainInfo = new EditMainInfo();
+                            editMainInfo.FillInfoUser("");
+                        }
                         break;
                     case "Контакты":
-                    {
-                        var editContactInfo = new EditContactInfo();
-                        editContactInfo.FillInfoUser("");
-                    }
-                    break;
+                        {
+                            var editContactInfo = new EditContactInfo();
+                            editContactInfo.FillInfoUser("");
+                        }
+                        break;
                     case "Образование":
-                    {
-                        var editStudyInfo = new EditStudyInfo();
-                        editStudyInfo.FillInfoUser("");
-                    }
+                        {
+                            var editStudyInfo = new EditStudyInfo();
+                            editStudyInfo.FillInfoUser("");
+                        }
                         break;
                     case "Карьера":
-                    {
-                        var editCarrierInfo = new EditCarrierInfo();
-                        editCarrierInfo.FillInfoUser("");
-                    }
+                        {
+                            var editCarrierInfo = new EditCarrierInfo();
+                            editCarrierInfo.FillInfoUser("");
+                        }
                         break;
                     case "Военная служба":
-                    {
-                        var editArmyInfo = new EditArmyInfo();
-                        editArmyInfo.FillInfoUser("");
-                    }
+                        {
+                            var editArmyInfo = new EditArmyInfo();
+                            editArmyInfo.FillInfoUser("");
+                        }
                         break;
                     case "Жизненная позиция":
-                    {
-                        var editLivePositionInfo = new EditLivePositionInfo();
-                        editLivePositionInfo.FillInfoUser("");
-                    }
+                        {
+                            var editLivePositionInfo = new EditLivePositionInfo();
+                            editLivePositionInfo.FillInfoUser("");
+                        }
                         break;
                 }
             }

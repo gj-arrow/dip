@@ -15,8 +15,8 @@ namespace VkApi.Forms
         private TextBox _txbWallPostComment;
         private readonly Button _btnShowFullInfo = new Button(By.XPath("//div[@id='profile_short']//span[contains(@class,'profile_label_more')]"), "Show full info button");
         private readonly Button _btnEditInfo = new Button(By.XPath("//*[@id='profile_edit_act']"), "Edit button");
-        private readonly TextBox _txbPageBlock = 
-            new TextBox(By.XPath("//div[@id='profile_wall']/div[contains(@class,('page_block'))]"), "Page Block Wall" );
+        private readonly TextBox _txbPageBlock =
+            new TextBox(By.XPath("//div[@id='profile_wall']/div[contains(@class,('page_block'))]"), "Page Block Wall");
         private string _namePhotoDownloaded = "";
         private const string TemplateWallPostLocator = "//div[contains(@class,'wall_text')]//div[contains(text(),'{0}')]";
         private const string RegularFindUrlPhoto = "{0}.+url\\((.+)\\)";
@@ -30,8 +30,8 @@ namespace VkApi.Forms
         public void AddLikeWallPost(string wallPostMessage)
         {
             var wallPostLocator = string.Format(TemplateWallPostLocator, wallPostMessage);
-            var _btnLikeWalPost = 
-                new Button (By.XPath(wallPostLocator + "/ancestor::div[contains(@class,'post_info')]//a[contains(@class,'like_btn like _like')][1]"),
+            var _btnLikeWalPost =
+                new Button(By.XPath(wallPostLocator + "/ancestor::div[contains(@class,'post_info')]//a[contains(@class,'like_btn like _like')][1]"),
                 "Button 'Like' on the wall post");
             if (_btnLikeWalPost.IsDisplayed())
             {
