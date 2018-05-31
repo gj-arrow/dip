@@ -90,3 +90,34 @@ D:\Other\sonar\diplom-master\VkApi\obj\Debug\VkApi.csprojResolveAssemblyReferenc
 D:\Other\sonar\diplom-master\VkApi\obj\Debug\VkApi.csproj.CoreCompileInputs.cache
 D:\Other\sonar\diplom-master\VkApi\obj\Debug\VkApi.dll
 D:\Other\sonar\diplom-master\VkApi\obj\Debug\VkApi.pdb
+D:\Training\New folder\dip\VkApi\bin\Debug\NUnit3.TestAdapter.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Training\New folder\dip\VkApi\bin\Debug\nunit.engine.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\nunit.engine.api.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\Mono.Cecil.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\Resources\chromedriver.exe
+D:\Training\New folder\dip\VkApi\bin\Debug\Resources\geckodriver.exe
+D:\Training\New folder\dip\VkApi\bin\Debug\VkApi.dll.config
+D:\Training\New folder\dip\VkApi\bin\Debug\VkApi.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\VkApi.pdb
+D:\Training\New folder\dip\VkApi\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\Newtonsoft.Json.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\nunit.framework.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\OnlinerTestDemo.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\SikuliSharp.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\System.ValueTuple.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\TechTalk.SpecFlow.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\WebDriver.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\WebDriver.Support.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\log4net.dll
+D:\Training\New folder\dip\VkApi\bin\Debug\SikuliSharp.pdb
+D:\Training\New folder\dip\VkApi\bin\Debug\OnlinerTestDemo.pdb
+D:\Training\New folder\dip\VkApi\bin\Debug\Newtonsoft.Json.xml
+D:\Training\New folder\dip\VkApi\bin\Debug\nunit.framework.pdb
+D:\Training\New folder\dip\VkApi\bin\Debug\nunit.framework.xml
+D:\Training\New folder\dip\VkApi\bin\Debug\WebDriver.xml
+D:\Training\New folder\dip\VkApi\bin\Debug\WebDriver.Support.xml
+D:\Training\New folder\dip\VkApi\obj\Debug\VkApi.csprojResolveAssemblyReference.cache
+D:\Training\New folder\dip\VkApi\obj\Debug\VkApi.csproj.CoreCompileInputs.cache
+D:\Training\New folder\dip\VkApi\obj\Debug\VkApi.dll
+D:\Training\New folder\dip\VkApi\obj\Debug\VkApi.pdb

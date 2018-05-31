@@ -14,3 +14,9 @@ D:\Other\sonar\diplom-master\SikuliSharp\bin\Debug\SikuliSharp.pdb
 D:\Other\sonar\diplom-master\SikuliSharp\obj\Debug\SikuliSharp.csproj.CoreCompileInputs.cache
 D:\Other\sonar\diplom-master\SikuliSharp\obj\Debug\SikuliSharp.dll
 D:\Other\sonar\diplom-master\SikuliSharp\obj\Debug\SikuliSharp.pdb
+D:\Training\New folder\dip\SikuliSharp\bin\Debug\SikuliSharp.dll
+D:\Training\New folder\dip\SikuliSharp\bin\Debug\SikuliSharp.pdb
+D:\Training\New folder\dip\SikuliSharp\obj\Debug\SikuliSharp.csproj.CoreCompileInputs.cache
+D:\Training\New folder\dip\SikuliSharp\obj\Debug\SikuliSharp.dll
+D:\Training\New folder\dip\SikuliSharp\obj\Debug\SikuliSharp.pdb
+D:\Training\New folder\dip\SikuliSharp\obj\Debug\SikuliSharp.csprojResolveAssemblyReference.cache
